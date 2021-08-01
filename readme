@@ -1,1 +1,3 @@
-个人编写的matlab appdesigner的程序，负责读取数据，并且进行排序操作进行输出
+个人编写的matlab appdesigner的程序
+①excel_read 负责读取数据，并且进行排序操作进行输出
+②app间参数传递 ：interface1 interface2:这个的核心在于怎么在函数本体之中加参数输入：appdesigner->app输入参数进行添加
